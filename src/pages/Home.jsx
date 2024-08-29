@@ -15,7 +15,7 @@ const Home = () => {
           name="description"
           content="Transform your outdoor space with Regenerative Landscape and Garden—Charlotte's premier landscaping experts. Stunning, sustainable, superior."
         />
-        <title>Regenerative Landscape and Garden</title>
+        <title>Regenerative Landscape and Gardens</title>
       </Helmet>
       <Hero />
       <Services />
